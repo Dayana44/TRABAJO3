@@ -1,0 +1,33 @@
+
+
+body {
+	color: orange;
+	background-image: url(mirador.jpg.jpg); 
+}
+
+p {
+	color: #000000;
+	font-family: serif;
+	font-size: 20px;
+}
+
+
+
+h1{
+	font-family: fantasy;
+	font-size: 36px;
+	
+}
+
+h2 {
+	font-family:fantasy;
+	font-size: 25px;
+	color: green;
+}
+
+h3 {
+	font-family:monospace;
+	font-size: 20px ;
+	color:pink;
+}
+
